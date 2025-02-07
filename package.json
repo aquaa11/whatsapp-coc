@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.2.1",
+  "description": "A Clash of Clans bot for WhatsApp",
+  "main": "client.js",
+  "dependencies": {
+    "clashofclans.js": "^3.3.20",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "scripts": {
+    "dev": "nodemon client.js",
+    "start": "node client.js"
+  },
+  "repository": "https://github.com/shavy4452/Clash-WhatsApp-Bot.git",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "2.0.22"
+  }
+}
