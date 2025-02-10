@@ -1,7 +1,8 @@
 {
     "coc_dev": {
         "email": "your coc api email",
-        "password": "your coc api pw"
+        "password": "your coc api pw",
+        "keyName": "your coc api keyname"
     },
     "developer": "your number bot",
     "command_prefix": "!"
