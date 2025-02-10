@@ -7,7 +7,7 @@ async function loginToCOC() {
         await ClashClient.login({
             email: config.coc_dev.email,
             password: config.coc_dev.password,
-            keyName: "japan333"
+            keyName: config.coc_dev.keyName
         });
         console.log("Logged in to Clash of Clans");
     } catch (err) {
