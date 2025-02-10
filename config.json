@@ -1,8 +1,8 @@
 {
     "coc_dev": {
-        "email": "yanaowafi@gmail.com",
-        "password": "wafiyana00"
+        "email": "your coc api email",
+        "password": "your coc api pw"
     },
-    "developer": "081223461485",
+    "developer": "your number bot",
     "command_prefix": "!"
 }
