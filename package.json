@@ -12,7 +12,6 @@
     "dev": "nodemon client.js",
     "start": "node client.js"
   },
-  "repository": "https://github.com/shavy4452/Clash-WhatsApp-Bot.git",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "2.0.22"
